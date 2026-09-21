@@ -11,7 +11,7 @@ ID: A115136
  Resultados: https://blockly.games/maze?lang=en&level=10&&skin=0#urhwaq
 
  
- Nível 10 Turtle (desenho do barco à bela) - BLOCKLY GAMES
+ Nível 10 Turtle (desenho do barco à vela) - BLOCKLY GAMES
  
  Resumo: Neste trabalho foi representado um desenho de um barco à vela.   
 
