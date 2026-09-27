@@ -14,6 +14,6 @@ Em ambas as modalidades são dadas indicações se o número é maior ou menor e
 
 Lista de Resultados:
 
-[Jogo](TPC 2.ipynb)
+[Jogo](TPC2.ipynb)
 
 
