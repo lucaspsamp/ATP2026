@@ -5,7 +5,7 @@ Nome: Lucas Sampaio
 ID: A115136
 
 Foto:
-<img width="1671" height="724" alt="image" src="https://github.com/user-attachments/assets/9152f51a-2b8d-4b7c-8f8c-340fc52cf827" />
+<img width="288" height="288" alt="lucas" src="https://github.com/user-attachments/assets/1a38f396-4894-492f-8eab-f25695d312e1" />
 
 
 Neste trabalho foi desenvolvido em Python o jogo "Adivinha o número."
