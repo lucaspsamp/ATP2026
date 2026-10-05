@@ -1,4 +1,4 @@
-## Título: Trabalho de casa 2 - "Adivinha o número"
+## Título: Trabalho de casa 3 - "Corrida para o 100"
 Nome: Lucas Sampaio
 
 ID: A115136
