@@ -7,4 +7,4 @@ Foto: <img width="288" height="288" alt="lucas" src="https://github.com/user-att
 
 Neste TPC4 tive de criar uma aplicação em Python, que colocasse no menu uma série de operações que aprendemos ao longo do semestre.
 Resultado:
-[jogo](https://vscode.dev/github/lucaspsamp/ATP2026/blob/main/TPC4/TPC4.py?vscode-lang=pt-pt)
+[jogo](TPC4.ipynb)
